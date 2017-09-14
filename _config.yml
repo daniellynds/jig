@@ -1,4 +1,4 @@
-# 1) Grab the URL of YOUR Google Sheet and paste Here (make sure it ends with /edit -- clean off anything #gid= and beyond)
+# 1) Grab the URL of YOUR Google Sheet and paste Here ( make sure it ends with /edit -- clean off anything #gid= and beyond)
 google_sheet: https://docs.google.com/spreadsheets/d/1Rqi_13RmBWbOOisx-u8bzDF_PjjbPFJLjbgY6QLuu-g/edit
 
 # 2) Give your Jig a name
